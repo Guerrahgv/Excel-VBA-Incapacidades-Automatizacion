@@ -22,7 +22,4 @@ Vi un familiar que visite un dia normal y esta trabaja en una multinacional colo
 
 Si necesitas ver como funciona te dejo el codigo para que puedas observar como funciona y asi crees el tuyo.
 
-## Licencia
-
-Este proyecto se encuentra bajo la licencia [MIT](LICENSE).
-
+ 
