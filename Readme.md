@@ -15,7 +15,7 @@ Vi un familiar que visite un dia normal y esta trabaja en una multinacional colo
 1. Descarga el archivo Excel con el código VBA.
 2. Abre el archivo Excel y activa la vista de macros (Alt + F11).
 3. Copia y pega el código VBA en el editor de Visual Basic for Applications.
-4. Asegúrate de que los archivos que deseas validar estén ubicados en las ubicaciones especificadas en el código (TextBoxArchivo1 y TextBoxArchivo2).
+4. Asegúrate de que los archivos que deseas validar estén ubicados en las ubicaciones especificadas en el código.
 5. Ejecuta la macro para automatizar el proceso de validación.
 
 ## Contribuciones
