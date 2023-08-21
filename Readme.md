@@ -24,5 +24,5 @@ Si necesitas ver como funciona te dejo el codigo para que puedas observar como f
 
 ## Imagenes
 <div>
-<img src="https://github.com/Guerrahgv/Excel-VBA-Incapacidades-Automatizacion/blob/master/assets/Form.png" title="Git" **alt="Form" width="400" height="400"/>
+<img src="https://github.com/Guerrahgv/Excel-VBA-Incapacidades-Automatizacion/blob/master/assets/Form.png" title="Git" **alt="Form" width="600" />
 </div>
