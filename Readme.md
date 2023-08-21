@@ -22,4 +22,5 @@ Vi un familiar que visite un dia normal y esta trabaja en una multinacional colo
 
 Si necesitas ver como funciona te dejo el codigo para que puedas observar como funciona y asi crees el tuyo.
 
- 
+## Imagenes
+img src="https://github.com/Guerrahgv/Excel-VBA-Incapacidades-Automatizacion/blob/master/assets/Form.png" title="Git" **alt="Git" width="40" height="40"/>
